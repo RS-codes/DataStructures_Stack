@@ -1,2 +1,2 @@
 # DataStructures_Stack
-files to be added
+SourceCodes and Pseudocodes added
